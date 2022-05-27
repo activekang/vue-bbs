@@ -6,7 +6,8 @@
     <Footer/>
   </div>
 </template>
-<!-- 뷰 메인페이지 수정중 2차 -->
+<!-- �메인�이지 �정�2�-->
+<!-- update 3 220527 -->
 
 <script>
 import Header from "@/components/Header";
